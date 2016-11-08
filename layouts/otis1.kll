@@ -24,7 +24,7 @@ U"Backspace" : U"Delete";
 U"Backtick"  : U"LCtrl" + U"Shift" + U"F5";
 
 # Top Row
-U"P"         : U"LCtrl" + U"Shift" + U"8";
+U"P"         : CONS"PausePlay";
 U"LBrace"    : CONS"ScanPreviousTrack";
 U"RBrace"    : CONS"ScanNextTrack";
 
