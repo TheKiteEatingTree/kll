@@ -1,0 +1,38 @@
+Name = whitefox;
+Version = 0.1;
+Author = "Matt3o and HaaTa (Jacob Alexander) 2015";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-08-16;
+
+# Number Row
+U"Esc"       : flashMode();
+U"1"         : U"F1";
+U"2"         : U"F2";
+U"3"         : U"F3";
+U"4"         : U"F4";
+U"5"         : U"F5";
+U"6"         : U"F6";
+U"7"         : U"F7";
+U"8"         : U"F8";
+U"9"         : U"F9";
+U"0"         : U"F10";
+U"-"         : CONS"VolumeDown";
+U"="         : CONS"VolumeUp";
+U"Backspace" : U"Delete";
+U"Backtick"  : U"LCtrl" + U"Shift" + U"F5";
+
+# Top Row
+U"P"         : U"LCtrl" + U"Shift" + U"8";
+U"LBrace"    : CONS"ScanPreviousTrack";
+U"RBrace"    : CONS"ScanNextTrack";
+
+# Middle Row
+U"PageUp"    : CONS"BrightnessIncrement";
+
+# Bottom Row
+U"PageDown"  : CONS"BrightnessDecrement";
+
+# Space Row
+
