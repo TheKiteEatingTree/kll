@@ -14,5 +14,5 @@ U"H" : U"LEFT";
 U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
-U"P" : U"Lctrl" + U"LEFT";
-U"N" : U"Lctrl" + U"RIGHT;
+U"P" : U"CTRL" + U"LEFT";
+U"N" : U"CTRL" + U"RIGHT";
