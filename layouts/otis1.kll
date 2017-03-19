@@ -21,7 +21,7 @@ U"0"         : U"F10";
 U"-"         : CONS"VolumeDown";
 U"="         : CONS"VolumeUp";
 U"Backspace" : U"Delete";
-U"Backtick"  : U"LCtrl" + U"Shift" + U"F5";
+U"Backtick"  : U"PRINTSCREEN";
 
 # Top Row
 U"P"         : CONS"PausePlay";
