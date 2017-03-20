@@ -71,4 +71,4 @@ generatedKeymap.h
 generatedPixelmap.c
 kll_defs.h
 tests/generated*
-
+.zedstate
