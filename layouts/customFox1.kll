@@ -8,11 +8,23 @@ Date = "2016-05-30";
 Generator = "KIICONF 0.2";
 
 U"BACKSPACE" : U"DELETE";
-U"U" : U"HOME";
-U"I" : U"END";
+
+U"W" : U"CTRL" + U"RIGHT";
+U"E" : U"CTRL" + U"RIGHT";
+U"U" : U"CTRL" + U"LEFT";
+U"I" : U"CTRL" + U"RIGHT";
+U"P" : U"UP";
+U"LBRACE" : U"HOME"
+U"RBRACE" : U"END"
+
 U"H" : U"LEFT";
 U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
-U"P" : U"CTRL" + U"LEFT";
-U"N" : U"CTRL" + U"RIGHT";
+
+U"Z" : U"CTRL" + U"Z";
+U"X" : U"CTRL" + U"X";
+U"C" : U"CTRL" + U"C";
+U"V" : U"CTRL" + U"V";
+U"B" : U"CTRL" + U"LEFT";
+U"N" : U"DOWN";
