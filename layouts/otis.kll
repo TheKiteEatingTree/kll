@@ -10,3 +10,5 @@ Date = 2015-09-29;
 # Unused layers and functions are ignored
 
 U"Function1" : layerShift(1);
+U"PageUP": U"Home";
+U"PageDown": U"End";
