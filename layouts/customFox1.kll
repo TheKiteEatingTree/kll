@@ -15,16 +15,16 @@ U"U" : U"CTRL" + U"LEFT";
 U"I" : U"CTRL" + U"RIGHT";
 U"O" : U"HOME";
 U"P" : U"END";
-U"LBRACE" : U"UP", U"UP", U"UP", U"UP", U"UP";
-U"RBRACE" : U"DOWN", U"DOWN", U"DOWN", U"DOWN", U"DOWN";
+U"LBRACE" : U"PAGEUP";
+U"RBRACE" : U"PAGEDOWN";
 
 U"H" : U"LEFT";
 U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
 
-U"PAGEUP": U"PAGEUP";
-U"PAGEDOWN": U"PAGEDOWN";
+U"HOME": U"PAGEUP";
+U"END": U"PAGEDOWN";
 
 U"Z" : U"CTRL" + U"Z";
 U"X" : U"CTRL" + U"X";
