@@ -13,9 +13,10 @@ U"W" : U"CTRL" + U"RIGHT";
 U"E" : U"CTRL" + U"RIGHT";
 U"U" : U"CTRL" + U"LEFT";
 U"I" : U"CTRL" + U"RIGHT";
-U"P" : U"UP";
-U"LBRACE" : U"HOME";
-U"RBRACE" : U"END";
+U"O" : U"HOME";
+U"P" : U"END";
+U"LBRACE" : U"UP", U"UP", U"UP", U"UP", U"UP";
+U"RBRACE" : U"DOWN", U"DOWN", U"DOWN", U"DOWN", U"DOWN";
 
 U"H" : U"LEFT";
 U"J" : U"DOWN";
