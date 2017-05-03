@@ -26,6 +26,8 @@ U"L" : U"RIGHT";
 U"HOME": U"PAGEUP";
 U"END": U"PAGEDOWN";
 
+U"D" : U"CTRL" + U"D";
+
 U"Z" : U"CTRL" + U"Z";
 U"X" : U"CTRL" + U"X";
 U"C" : U"CTRL" + U"C";
