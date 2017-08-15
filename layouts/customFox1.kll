@@ -23,10 +23,11 @@ U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
 
-U"HOME": U"PAGEUP";
-U"END": U"PAGEDOWN";
+U"PAGEUP": U"PAGEUP";
+U"PAGEDOWN": U"PAGEDOWN";
 
 U"D" : U"CTRL" + U"D";
+
 
 U"Z" : U"CTRL" + U"Z";
 U"X" : U"CTRL" + U"X";
