@@ -1,7 +1,7 @@
 Name = stdFuncMap;
 Version = 0.3;
 Author = "HaaTa (Jacob Alexander) 2014-2015";
-KLL = 0.3c;
+KLL = 0.5;
 
 # Modified Date
 Date = 2015-09-29;
@@ -10,5 +10,5 @@ Date = 2015-09-29;
 # Unused layers and functions are ignored
 
 U"Function1" : layerShift(1);
-U"PageUP": U"Home";
-U"PageDown": U"End";
+U"PageUP": U"PageUp";
+U"PageDown": U"PageDown";
