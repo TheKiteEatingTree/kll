@@ -3,12 +3,13 @@ Layout = "AriaBlank";
 Base = "AllBlank";
 Version = "0.2";
 Author = "HaaTa (Jacob Alexander) 2015";
-KLL = "0.3c";
+KLL = "0.5";
 Date = "2016-05-30";
 Generator = "KIICONF 0.2";
 
 U"CAPSLOCK" : U"LGUI";
-U"FUNCTION1" : U"LALT";
+U"CAPSLOCK" + U"K" : U"F5";
+U"LGUI" : U"LALT";
 U"LALT" : layerShift( 1 );
 U"RALT" : layerShift( 2 );
-U"GUI" : U"RCTRL";
+U"Function1" : U"RCTRL";
