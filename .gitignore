@@ -72,3 +72,5 @@ generatedPixelmap.c
 kll_defs.h
 tests/generated*
 .zedstate
+tests/test_controller
+
